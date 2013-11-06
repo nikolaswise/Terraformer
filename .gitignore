@@ -50,3 +50,8 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# Documentation Site Dev
+docs/node_modules
+
+
